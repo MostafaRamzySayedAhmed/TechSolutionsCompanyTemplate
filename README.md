@@ -14,3 +14,4 @@
 * BXSlider JS Plugin
 * MixItUp JS Plugin
 * jQuery
+.
