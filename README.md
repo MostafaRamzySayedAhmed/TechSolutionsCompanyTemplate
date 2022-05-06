@@ -1,5 +1,5 @@
 # Tech Solutions Company Template
-It’s a Non-Responsive Template, Can Be Used for IT Companies to Offer Their Technical Solutions in an Awesome Way for Other Clients.
+It’s a Non-Responsive Template, Can Be Used for IT Companies to Offer Their Technical Solutions in an Awesome Way for Other Clients
 
 # The Used Technologies
 * HTML
