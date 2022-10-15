@@ -7,9 +7,7 @@ It’s a Non-Responsive Template.
 
 # The Used Technologies
 * HTML
-* HTML5
 * CSS
-* CSS3
 * Font Awesome CSS Library
 * Normalize CSS Library
 * JavaScript
