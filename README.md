@@ -1,5 +1,5 @@
 # Tech Solutions Company Template
-It’s a Non-Responsive Template
+It’s a Non-Responsive Template.
 
 # The Features
 * The Simple & Classic Design.
@@ -15,4 +15,5 @@ It’s a Non-Responsive Template
 * BXSlider JS Plugin
 * MixItUp JS Plugin
 * jQuery
+
 
